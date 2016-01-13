@@ -6,15 +6,6 @@ body{
   line-height: 1.5;
 }
 
-/*背景*/
-html {
-    background: url(../img/back.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-​
 /*ページ全体のリンクカラー*/
 a:link{
   color:#0099CC;
